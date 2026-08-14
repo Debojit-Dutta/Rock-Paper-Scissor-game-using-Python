@@ -1,6 +1,8 @@
 
 A simple Rock Paper Scissors game built using Python. The player enters their choice, and the computer randomly selects Rock, Paper, or Scissors. The program then determines the winner.
 
+
+
 **Technologies Used**
 Python
 Random module
@@ -21,12 +23,16 @@ s for Scissors
 
 The computer randomly selects one of the three choices.
 
+
+
 **How to Run**
 Make sure Python is installed on your computer.
 Clone or download this repository.
 Open a terminal in the project folder.
 Run:
 python rock_paper_scissors.py
+
+
 **How to Play**
 
 When the program starts, enter:
@@ -40,11 +46,15 @@ for Scissors.
 
 The program will display your choice and the computer's choice and then announce whether you win, lose, or draw.
 
+
+
 **Example**
 enter your choice: p
 you chose paper
 computer chose rock
 you win
+
+
 **Future Improvements**
 
 Some possible improvements for this project are:
